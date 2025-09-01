@@ -1,0 +1,41 @@
+/* General Styles */
+body {
+    font-family: 'sans-serif';
+    color: #ffffff;
+    background-color: #0e1117;
+}
+
+/* Main container */
+.stApp {
+    background-color: #0e1117;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+    color: #ffffff;
+}
+
+/* Sidebar */
+.css-1d391kg {
+    background-color: #1c1e25;
+}
+
+/* Buttons */
+.stButton>button {
+    border-radius: 20px;
+    border: 1px solid #2a7de1;
+    background-color: #2a7de1;
+    color: #ffffff;
+    padding: 10px 24px;
+}
+
+.stButton>button:hover {
+    background-color: #ffffff;
+    color: #2a7de1;
+    border: 1px solid #2a7de1;
+}
+
+/* Info boxes */
+.st-ae {
+    border-radius: 10px;
+}
